@@ -1,0 +1,64 @@
+body {
+    
+    font-size: 16px;
+    color: black ;
+    background-color: rgb(117, 36, 36);
+    background-position: 500px;
+    background: no-repeat;
+
+}
+img{
+    background: url(../Imagenes/principal.jpg);
+    width: 100%;
+}
+
+h1{
+    
+    text-align: center;
+    font-size: 50px;
+    margin: 50p, 50px;
+    padding: 30px;
+}
+h2 {
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+}
+h5{
+    text-align: center;
+    font-size: 30px;
+}
+ul div{
+    background: darkgrey;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+
+    
+    color: brown;
+    float:left;
+    
+}
+
+.caja{
+    position: static;
+    top: 0px;
+    bottom:0px;
+    right: 100px;
+    left: 500px;
+}
+footer{
+    text-align: center;
+    font-size: 35px;
+}
+
+/*ul{
+    font-size: 1px;
+}*/
